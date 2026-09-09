@@ -24,6 +24,8 @@ Design stage. No website, backend, editor enforcement, autosave, or publishing s
 
 See [PRODUCT.md](PRODUCT.md) for the brief, [DESIGN.md](DESIGN.md) for visual decisions, and [docs/figma-map.json](docs/figma-map.json) for editable frame references.
 
+[Writer-platform research](docs/writer-platform-research.md) covers what writers value, the embedded editor's priorities, the clipboard tradeoff, and proposed acceptance tests.
+
 ## Authorship model
 
 Blocking clipboard imports creates friction; it does not prove human authorship. The design describes where writing was created rather than promising perfect AI detection. Accessibility, privacy, media creation, and enforcement require further product decisions before implementation.
