@@ -2,6 +2,8 @@
 
 Research date: September 9, 2026. Prepared for Human Only Blogs.
 
+**Decision following review:** the user approved the five editor priorities and chose to keep copy/paste banned for now, revisiting it later. The recommendations below remain the research record; suggested clipboard exceptions are not approved. See [PRODUCT.md](../PRODUCT.md) for the current decision.
+
 ## Recommendation
 
 Build a writing environment that earns a writer's trust before relying on the human-only proposition to attract them. Our requirement to compose on-platform makes editor quality unusually consequential: writers cannot simply draft in their preferred app and paste the finished piece into our publishing form.
