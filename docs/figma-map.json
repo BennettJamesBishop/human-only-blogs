@@ -1,0 +1,21 @@
+{
+  "fileKey": "8nSFeWDJXfxPl1ZB1KRrrC",
+  "url": "https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC",
+  "teamId": "1185331789136841131",
+  "folderId": "652260310",
+  "pageId": "0:1",
+  "frames": {
+    "discoveryDesktop": "2:13",
+    "readingDesktop": "2:14",
+    "writingDesktop": "2:15",
+    "discoveryMobile": "2:16",
+    "publishingReview": "2:205",
+    "writtenHereExplanation": "2:206",
+    "designNotes": "2:207"
+  },
+  "components": {
+    "button": "2:292"
+  },
+  "prototypeEntry": "2:13",
+  "status": "Initial editable design concept; no website implementation"
+}
