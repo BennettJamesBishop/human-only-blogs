@@ -2,6 +2,12 @@
 
 A warm, literary home for bloggers, creative writers, fanfiction writers, and readers. Published writing must originate in an embedded document editor with copy and paste disabled.
 
+## Continue development with a fresh agent
+
+Start with [AGENTS.md](AGENTS.md) and [the handoff](docs/HANDOFF.md). The [engineering plan](docs/ENGINEERING_PLAN.md) defines the next milestones, and the [Figma MCP handoff](docs/FIGMA_HANDOFF.md) identifies exact implementation frames. `CLAUDE.md` points Claude-based tools to the same project memory.
+
+The next milestone is a functional writing-desk proof. The repository currently contains design and planning documentation only; no application setup commands exist yet.
+
 ## Design
 
 [Open the Figma design](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=2-13)

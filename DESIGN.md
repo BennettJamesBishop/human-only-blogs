@@ -42,15 +42,13 @@ Discovery uses a broad masthead, genre navigation, one featured essay, adjacent 
 - “Written here” describes creation in the embedded editor, not guaranteed human authorship.
 - Figma primary buttons have default, hover, focus, and disabled visual states. The initial prototype wires the main desktop journey only.
 
-## Decisions before implementation
+## Implementation decisions and handoff
 
-1. Support for dictation, IME composition, assistive input, and accessibility accommodations.
-2. Moving passages without copying/pasting; undo/redo; recovery and export of the writer's own drafts.
-3. Whether title, summary, comments, and author biography also require native creation.
-4. How in-product cover art or other non-text media would be created under the all-content rule.
-5. Evidence collection, consent, retention, reader visibility, moderation, and appeals.
-6. Fanfiction-specific metadata: fandom, rating, relationships, chapter status, and content warnings.
-7. Stack, hosting, account model, and monetization remain open.
+See [PRODUCT.md](PRODUCT.md) for the latest decisions, [the engineering plan](docs/ENGINEERING_PLAN.md) for sequencing, and [Figma MCP targets](docs/FIGMA_HANDOFF.md) for implementation references.
+
+No generative features are permitted. Dictation and ordinary spelling correction are allowed; manuscript export is approved. Biographies/comments permit normal clipboard use, while stories/chapters retain the ban. Text launches first; images/video come later. The owner uses backend access rather than a dedicated staff portal. Thirty-day retention needs precise history/backup semantics; an exact minimum age and launch countries remain undecided.
+
+Implementation still needs to resolve title/summary/private-note boundaries, schema and input handling, evidence collection, report/block policy enforcement, providers, hosting, and account architecture. Figma includes fanfiction metadata fields, but no working taxonomy or filtering backend.
 
 ## Validation
 
