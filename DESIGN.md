@@ -54,6 +54,6 @@ Discovery uses a broad masthead, genre navigation, one featured essay, adjacent 
 
 ## Validation
 
-The second edition adds 28 screens, dialogs, and state boards. See [coverage and prototype limits](docs/figma-second-edition.md). The clipboard ban remains; native passage moves, cuttings, history, and recovery support revision. Personal typography and a night focus view support reading and writing comfort.
+The second edition adds 37 screens, dialogs, and state boards. See [coverage and prototype limits](docs/figma-second-edition.md). The clipboard ban remains; native passage moves, cuttings, history, and recovery support revision. Personal typography and a night focus view support reading and writing comfort. Additional screens cover fanfiction metadata, series settings, reader reporting/blocking, and empty/error states.
 
 Inspected Figma screenshots of desktop discovery, reading, writing, mobile discovery, publishing review, and shared buttons. Checked the authored font families and the main prototype destinations. This is visual and structural review, not browser, editor, or accessibility implementation testing.

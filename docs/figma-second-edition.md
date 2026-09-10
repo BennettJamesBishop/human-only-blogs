@@ -2,7 +2,7 @@
 
 [Open the screen index](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=26-103).
 
-28 new screens, dialogs, and state boards extend the original design.
+37 new screens, dialogs, and state boards extend the original design.
 
 | Screen | Figma |
 | --- | --- |
@@ -43,5 +43,22 @@ Main navigation is linked within the second-edition page. Links to first-edition
 
 New screens were visually reviewed and bounds checked for overflowing content. Shared variables, text styles, and button instances preserve the original identity. No functional editor or browser implementation is implied. Fixture names and prose are illustrative AI-generated content.
 
-Pricing, finalized legal text, moderation workflows, media creation, and account architecture remain outside this pass.
+Pricing, finalized legal text, moderator tooling, media creation, and account architecture remain outside this pass.
 
+## Continuation: metadata, reader controls, and edge states
+
+Nine additional screens extend the index. Reporting privacy, review updates, and blocking effects are proposed product behavior. No reports are sent and no accounts are changed by these mockups.
+
+| Screen | Figma |
+| --- | --- |
+| Fanfiction details | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-119) |
+| Series details | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-188) |
+| Report a story | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-243) |
+| Report received | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-263) |
+| Block a writer | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-274) |
+| Blocked accounts | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-286) |
+| No search results | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-316) |
+| Empty reading list | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-349) |
+| Story unavailable | [Open](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=35-376) |
+
+These screens were visually reviewed; structural checks found no overflowing content or unexpected font families. Series details is linked from the series studio. All additions are accessible from the screen index; form fields and state-changing controls remain visual proposals.
