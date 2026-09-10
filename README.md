@@ -20,6 +20,8 @@ The main desktop prototype links discovery → reading → writing → publishin
 
 ## Status
 
+The [second edition](https://www.figma.com/design/8nSFeWDJXfxPl1ZB1KRrrC?node-id=26-103) adds 28 screens and dialogs for drafting, revision, recovery, series, reader libraries, profiles, preferences, and mobile use. See the [complete inventory](docs/figma-second-edition.md).
+
 Design stage. No website, backend, editor enforcement, autosave, or publishing system is implemented. Story titles, authors, prose, and save states are illustrative AI-generated mockup fixtures; they are not published human-authored content.
 
 See [PRODUCT.md](PRODUCT.md) for the brief, [DESIGN.md](DESIGN.md) for visual decisions, and [docs/figma-map.json](docs/figma-map.json) for editable frame references.

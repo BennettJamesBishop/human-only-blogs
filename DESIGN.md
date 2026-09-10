@@ -1,4 +1,4 @@
-# Human Only — First edition
+# Human Only — Design direction
 
 ## Direction
 
@@ -53,5 +53,7 @@ Discovery uses a broad masthead, genre navigation, one featured essay, adjacent 
 7. Stack, hosting, account model, and monetization remain open.
 
 ## Validation
+
+The second edition adds 28 screens, dialogs, and state boards. See [coverage and prototype limits](docs/figma-second-edition.md). The clipboard ban remains; native passage moves, cuttings, history, and recovery support revision. Personal typography and a night focus view support reading and writing comfort.
 
 Inspected Figma screenshots of desktop discovery, reading, writing, mobile discovery, publishing review, and shared buttons. Checked the authored font families and the main prototype destinations. This is visual and structural review, not browser, editor, or accessibility implementation testing.
